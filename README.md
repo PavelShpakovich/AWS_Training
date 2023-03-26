@@ -1,3 +1,11 @@
+#### S3 Bucket website
+
+http://my-awesome-store.s3-website-us-east-1.amazonaws.com/
+
+#### CloudFront distribution URL
+
+https://d3sayrlsm4edl6.cloudfront.net/
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
